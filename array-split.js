@@ -5,7 +5,7 @@ const remove = nums.splice(2,5, 77);
 console.log(remove);
 console.log(nums);
 
-const together = nums.join(" ");
+const together = nums.join(",");
 console.log(together);
 
 

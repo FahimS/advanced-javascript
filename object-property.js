@@ -1,5 +1,4 @@
 
-
 const students = [
     { id: 21, name: 'Omar Sunny' },
     { id: 31, name: 'Manna' },
